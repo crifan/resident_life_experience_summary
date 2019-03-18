@@ -1,0 +1,19 @@
+{
+  "title": "居民生活经验总结",
+  "description": "总结作为居民的生活经验，内容包括但不限于，水电燃气煤的价格，如何缴水电煤燃气的费用，燃气灶打不着火，下水道堵了如何疏通，洗衣机不甩水了如何处理，电闸坏了后的维修过程，玻璃爆了如何换，取暖设备哪个效果好等等，总结于此供他人参考。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "resident_life_experience_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/resident_life_experience_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/resident_life_experience_summary/pdf/resident_life_experience_summary.pdf"
+    }
+  }
+}
