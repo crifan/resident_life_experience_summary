@@ -1,7 +1,7 @@
 # 居民生活经验总结
 
-* 最新版本：`v1.0`
-* 更新时间：`20190318`
+* 最新版本：`v1.1`
+* 更新时间：`20190410`
 
 ## 简介
 
@@ -11,7 +11,7 @@
 
 本书的各种源码、在线浏览地址、多种格式文件下载如下：
 
-### Gitook源码
+### Gitbook源码
 
 * [crifan/resident_life_experience_summary: 居民生活经验总结](https://github.com/crifan/resident_life_experience_summary)
 

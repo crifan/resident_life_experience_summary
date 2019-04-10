@@ -17,6 +17,7 @@
   * [取暖](various_appliances/warm_heating.md)
 * [其他](others/README.md)
   * [配电箱](others/distribution_box.md)
+  * [电笔](others/electroprobe.md)
   * [灯泡](others/bulb.md)
   * [玻璃](others/glass.md)
 * [附录](appendix/README.md)
